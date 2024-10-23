@@ -44,19 +44,21 @@ const styles = StyleSheet.create({
   buttonWrapper: {
     width: 60,
     height: 60,
-    backgroundColor: '#fff',
+    backgroundColor: '#aed9e0',
     borderRadius: 60,
     justifyContent: 'center',
     alignItems: 'center',
-    borderColor: '#c0c0c0',
+    borderColor: '#5e6472',
     borderWidth: 2,
   },
   countText: {
     fontSize: 20,
     fontWeight: 'medium',
+    color: '#5e6472',
   },
   buttonText: {
     fontSize: 20,
     fontWeight: 'medium',
+    color: '#5e6472',
   },
 });
